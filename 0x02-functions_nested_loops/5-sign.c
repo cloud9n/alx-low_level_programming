@@ -1,10 +1,9 @@
 #include "main.h"
 
 /**
- * print_sign -print a sign of numbers
- * Return: the return is 1 or 0, -1 and n
+ * print_sign - print a sign of numbers
+ * Returns 1 or 0, -1 and n
  * @n: this is the number to be checked
- *
  */
 
 int print_sign(int n)
