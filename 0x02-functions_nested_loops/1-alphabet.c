@@ -3,7 +3,7 @@
 /**
  * print_alphabet - a - z in lower case
  * author: indiya Reuben
- * Return: is 0
+ * 
  */
 
 void print_alphabet(void)
@@ -13,6 +13,6 @@ void print_alphabet(void)
 
 	for (letter = 'a'; letter <= 'z'; letter++)
 		_putchar(letter);
-	_putchar("\n");
+	_putchar('\n');
 }
 
