@@ -3,7 +3,6 @@
 /**
  * print_alphabet - a - z in lower case
  * author: indiya Reuben
- * 
  */
 
 void print_alphabet(void)
