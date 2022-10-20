@@ -1,18 +1,11 @@
 #include "main.h"
 /**
- * main -print _putchar
- * Return is 0
+ * add - to ad two int
+ * num1 - variable number 1
+ * num2 - variable number 2
+ * Return number 1 and 2
  */
-
-int main (void)
+int add(int num1, int num2)
 {
-	_putchar('_');
-	_putchar('p');
-	_putchar('u');
-	_putchar('t');
-	_putchar('c');
-	_putchar('h');
-	_putchar('a');
-	_putchar('r');
-	_putchar('\n');
-	return (0);
+	return (num1 + num2);
+}
