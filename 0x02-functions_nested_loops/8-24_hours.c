@@ -24,9 +24,3 @@ void jack_bauer(void)
 		}
 	}
 }#include "main.h";
-
-/**
- * jack_bauer - Responsible for printing min.
- *
- */
-
