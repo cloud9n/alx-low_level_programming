@@ -4,7 +4,7 @@
  * @n: the nth in the question
  * Return: he absolute value of the int
  */
-int_abs(int n)
+int _abs(int n)
 {
 	if (n >= 0)
 		return (n);
