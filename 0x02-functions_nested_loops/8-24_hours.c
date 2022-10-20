@@ -3,6 +3,7 @@
 /**
  * jack_bauer - print every minuite
  * author - indiya reuben
+ * _putchar - prints a character ther std-o
  *
  */
 
@@ -23,4 +24,4 @@ void jack_bauer(void)
 			_putchar('\n');
 		}
 	}
-}#include "main.h";
+}
