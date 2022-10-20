@@ -1,4 +1,3 @@
-#include "main.h"
 #include <stdio.h>
 
 /**
@@ -6,8 +5,6 @@
  * @n: number to print  
  *
  */
-
-
 
 void print_to_98(int n)
 {
