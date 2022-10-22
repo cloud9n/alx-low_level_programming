@@ -1,8 +1,10 @@
 #include "main.h"
 /**
+ * main: header file
  * print_number - prints an int
  * @n:.input int parameter
  */
+
 void print_number(int n)
 {
 	unsigned int i = n;
